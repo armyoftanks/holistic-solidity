@@ -1,0 +1,2 @@
+# holistic-solidity
+just solidity
