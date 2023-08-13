@@ -1,6 +1,15 @@
 # holistic-solidity
 just solidity
 
+File tree:
+
+project-root/
+├── MyContract.sol
+├── MyContract.abi
+├── deploy.js
+├── test.js
+├── README.md
+
 using solidity
 using fs
 using web3
