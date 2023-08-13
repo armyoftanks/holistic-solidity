@@ -1,5 +1,5 @@
 # holistic-solidity
-just solidity
+just solidity + chatgpt guidance 
 
 File tree:
 
